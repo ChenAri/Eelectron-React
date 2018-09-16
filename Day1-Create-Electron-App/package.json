@@ -1,0 +1,22 @@
+{
+  "name": "day1-create-electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenAri/Eelectron-React.git"
+  },
+  "author": "Ari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenAri/Eelectron-React/issues"
+  },
+  "homepage": "https://github.com/ChenAri/Eelectron-React#readme",
+  "dependencies": {
+    "electron": "^2.0.9"
+  }
+}
